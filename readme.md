@@ -1,4 +1,4 @@
-A little project I did for the freelance client. 
+A little project I did for a freelance client. 
 
 The task was to make a program that generates a 16-digit key that consists of [A-Z],[0-9]. So base36 digits. 
 
